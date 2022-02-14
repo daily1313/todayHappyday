@@ -27,5 +27,10 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">  
  </div>
-SNS LIST<br>
+CONTACT<br>
 <a href="https://www.instagram.com/beommkkk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+<a href="mailto:kimsb7218@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsb7218@gmail.com"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+ 
